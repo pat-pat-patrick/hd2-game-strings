@@ -6,7 +6,7 @@ Export the official in-game text of Helldivers 2 in all 15 languages, from your 
 
 - **Every language the game ships**: English, English (UK), German, French, Spanish, Spanish (Latin America), Italian, Polish, Portuguese, Portuguese (Brazil), Russian, Japanese, Korean, Simplified Chinese and Traditional Chinese.
 - **Official translations side by side**: the game gives each line an id, and the same id in two languages is the same line translated. One row per id, one column per language.
-- **About 25,000 lines per language** (game build 26568081): enemy, weapon, stratagem and planet names, menus, voice subtitles and more.
+- **18,600 to 24,800 lines per language** (game build 26568081): enemy, weapon, stratagem and planet names, menus, voice subtitles and more.
 - **Read-only and offline**: it reads the game's own files and writes nothing into the game folder. Files deployed by mod managers are ignored, so you get the game's text, not a mod's.
 
 ## Requirements
